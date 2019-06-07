@@ -43,4 +43,4 @@ From this Project I learned the following:
 
 <br>
 
-<center><a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Full Report</a></center>
+<center><a href="/files/GeorgeBurgess_FinalReport.pdf" class="button button--large">Full Report</a></center>
