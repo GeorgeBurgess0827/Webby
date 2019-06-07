@@ -53,7 +53,7 @@ Below are some screenshots of the deliverables created as well as a link to the 
 	<img src="/images/Lunch-Money-Buddy/Wireframes/1.1.1-Top-up.png">
 	<img src="/images/Lunch-Money-Buddy/Wireframes/1.2-Subsidy-Status.png">
 </div>
-<center><a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Link to full Wireframes</a></center>
+<center><a href="/files/Burgess_Wireframe.pdf" class="button button--large">Link to full Wireframes</a></center>
 
 <br>
 ###### Visual Mockups
@@ -66,7 +66,7 @@ Below are some screenshots of the deliverables created as well as a link to the 
 	<img src="/images/Lunch-Money-Buddy/Mockups/1.3.1-Upcoming-meals.jpg">
 	<img src="/images/Lunch-Money-Buddy/Mockups/1.3.1-Upcoming-meals-overlay.jpg">
 </div>
-<center><a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Link to the app</a></center>
+<center><a href="https://georgeburgess0827.github.io/Lunch-Money-Buddy/" class="button button--large">Link to the app</a></center>
 
 <br>
 
