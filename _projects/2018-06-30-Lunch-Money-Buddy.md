@@ -3,7 +3,7 @@ title: 'Lunch Money Buddy'
 subtitle: 'Mobile Application Design'
 date: 2018-06-26 00:00:00
 description: A mobile app that allows parents and guardians to manage various aspects of their kids’ school cafeteria lunch accounts.
-featured_image: '/images/lunch-unsplash.jpg'
+featured_image: '/images/Lunch-Money-Buddy/SiteMap-Sketch-1.jpg'
 ---
 
 Course: Interaction Design
@@ -36,7 +36,7 @@ Below are some screenshots of the deliverables created as well as a link to the 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/Lunch-Money-Buddy/SiteMap-Sketch-1.jpg">
-	<img src="/images/Lunch-Money-Buddy/SiteMap-Sketch-1.jpg">
+	<img src="/images/Lunch-Money-Buddy/SiteMap-Sketch-2.jpg">
 	<img src="/images/Lunch-Money-Buddy/Final-Sitemap.jpg">
 </div>
 <center>Sketches and final design</center>
