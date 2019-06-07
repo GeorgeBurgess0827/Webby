@@ -43,4 +43,4 @@ From this Project I learned the following:
 
 <br>
 
-<center><a href="https://github.com/GeorgeBurgess0827/Webby/blob/master/files/GeorgeBurgess_FinalReport.pdf" class="button button--large">Full Report</a></center>
+<center><a href="https://www.geburgess.com/files/GeorgeBurgess_FinalReport.pdf" class="button button--large">Full Report</a></center>
