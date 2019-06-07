@@ -36,4 +36,4 @@ Below are a few screenshots of the deliverables created. To see the the entire s
 	<img src="/images/Upper-Sandusky/Wireframe.png">
 </div>
 
-<center><a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Full Report</a></center>
+<center><a href="/files/UpperSandusky_FinalReport.pdf" class="button button--large">Full Report</a></center>
