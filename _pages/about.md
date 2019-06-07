@@ -9,6 +9,6 @@ My ambition is to one day become proficient at both Front-End Development as wel
 
 I completed my master’s degree in UX design in August of 2017. I would like to transition into a UX/UI designer role to better reinforce my studies and gain valuable real-world experience.
 <br>
-
+<br>
 
 <center><a href="https://www.geburgess.com/files/george burgess.pdf" class="button button--large">Resume</a></center>
