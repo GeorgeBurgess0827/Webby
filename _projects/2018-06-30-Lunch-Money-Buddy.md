@@ -53,7 +53,7 @@ Below are some screenshots of the deliverables created as well as a link to the 
 	<img src="/images/Lunch-Money-Buddy/Wireframes/1.1.1-Top-up.png">
 	<img src="/images/Lunch-Money-Buddy/Wireframes/1.2-Subsidy-Status.png">
 </div>
-<center><a href="https://github.com/GeorgeBurgess0827/Webby/blob/master/files/Burgess_Wireframe.pdf" class="button button--large">Link to full Wireframes</a></center>
+<center><a href="https://www.geburgess.com/files/Burgess_Wireframe.pdf" class="button button--large">Link to full Wireframes</a></center>
 
 <br>
 ###### Visual Mockups
