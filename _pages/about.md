@@ -5,9 +5,9 @@ description:
 featured_image: /images/DSC_0058.jpg
 ---
 
-My ambition is to one day become proficient at both Front-End Development as well as UX Design. With the combination of these two skill sets I will be able to design and build anything I want! But more realistically, I would be the perfect liaison between designers and developers.
+I have a wild dream of becoming a Front-End Development and UX Design wizard, able to conjure up beautiful and functional websites with just a flick of my magic wand (or a few lines of code). But let's be real here, I'll probably just end up being the go-to person for when designers and developers need a translation guide.
 
-I completed my master’s degree in UX design in August of 2017. I would like to transition into a UX/UI designer role to better reinforce my studies and gain valuable real-world experience.
+I recently received my degree in UX design and am now ready to unleash my skills upon the world (or at least, the world of design and development). Time to get out there and make some magic happen!
 <br>
 <br>
 
