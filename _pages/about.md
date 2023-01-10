@@ -11,4 +11,4 @@ I recently received my degree in UX design and am now ready to unleash my skills
 <br>
 <br>
 
-<center><a href="https://www.geburgess.com/files/george burgess.pdf" class="button button--large">Resume</a></center>
+<center><a href="https://www.geburgess.com/files/George Burgess - Resume.pdf" class="button button--large">Resume</a></center>
